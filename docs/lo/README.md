@@ -55,3 +55,6 @@
 * About &brandShortName;, FAQs, feedback ---> ກ່ຽວກັບ &brandShortName;, ຄຳຖາມທີພົບເປັນປະຈຳ, ຄໍາຄິດເຫັນ
 
 ![Pontoon Screen Shot 1](Screen2.png)
+
+## 4. ປັດຈຸບັນມີເຄື່ອງມີໃນການຊ່ອຍແປຄື Google Translate
+ສາມາດເລືອກຄຳທີເໝາະສົມ ຫຼື ສ້າງຄຳໃໝ່ໄດ້
